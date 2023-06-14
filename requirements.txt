@@ -1,0 +1,19 @@
+async-timeout==4.0.2
+certifi==2023.5.7
+charset-normalizer==3.1.0
+greenlet==2.0.2
+idna==3.4
+numpy==1.24.3
+pandas==2.0.2
+pydantic==1.10.9
+python-dateutil==2.8.2
+python-dotenv @ git+https://github.com/theskumar/python-dotenv.git@137bc3dc0b8cf3d417a1e800c4065c526e3fb96a
+pytz==2023.3
+redis==4.5.5
+requests==2.31.0
+six==1.16.0
+spotipy==2.23.0
+SQLAlchemy==2.0.15
+typing_extensions==4.6.3
+tzdata==2023.3
+urllib3==2.0.3
